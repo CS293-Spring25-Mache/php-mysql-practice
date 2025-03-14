@@ -39,7 +39,7 @@ and put it in <div id="results">
 
 include("src/functions.php");
 $db=dbConnect();
-$neighborhoods=getNeighborhoods($db);
+
 
 ?>
 
